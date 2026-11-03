@@ -1,17 +1,31 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Graduate Research | University of Tennessee, Knoxville\nExplored the potential for salinity-driven patterns in microfiber ingestion risk across the Gulf of Mexico. Used ArcGIS Pro to integrate NOAA salinity data with species distribution and habitat information from OBIS.\nTools: ArcGIS Pro, GIS, NOAA Data, OBIS"
+  },
+  {
+    "objectID": "projects.html#project-1",
+    "href": "projects.html#project-1",
+    "title": "Projects",
+    "section": "",
+    "text": "Graduate Research | University of Tennessee, Knoxville\nExplored the potential for salinity-driven patterns in microfiber ingestion risk across the Gulf of Mexico. Used ArcGIS Pro to integrate NOAA salinity data with species distribution and habitat information from OBIS.\nTools: ArcGIS Pro, GIS, NOAA Data, OBIS"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
     "section": "Project 2",
-    "text": "Project 2"
+    "text": "Project 2\nGraduate Research | University of New Hampshire\nInvestigating dissolved organic nitrogen (DON) contributions to total nitrogen deposition using archived precipitation samples and long-term environmental datasets. The project explores how nitrogen deposition varies over time and its potential influence on watershed biogeochemistry.\nTools: R, Data Analysis, Hindcasting, Watershed Biogeochemistry"
   },
   {
     "objectID": "projects.html#project-3",
     "href": "projects.html#project-3",
     "title": "Projects",
     "section": "Project 3",
-    "text": "Project 3"
+    "text": "Project 3\nGraduate Research | University of New Hampshire\nInvestigating the chemistry of atmospheric deposition and throughfall to better understand how precipitation interacts with forest canopies and influences nutrient cycling in forest ecosystems. This research explores differences in precipitation chemistry, nutrient inputs, and the role of forest canopies in watershed biogeochemical processes.\nTools: R, Data Analysis, Precipitation Chemistry, Throughfall Monitoring, Watershed Biogeochemistry"
   },
   {
     "objectID": "index.html",

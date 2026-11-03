@@ -3,7 +3,23 @@ title: "Projects"
 ---
 
 ## Project 1
+**Graduate Research | University of Tennessee, Knoxville**
+
+Explored the potential for salinity-driven patterns in microfiber ingestion risk across the Gulf of Mexico. Used ArcGIS Pro to integrate NOAA salinity data with species distribution and habitat information from OBIS.
+
+**Tools:** ArcGIS Pro, GIS, NOAA Data, OBIS
+
 
 ## Project 2
+**Graduate Research | University of New Hampshire**
+
+Investigating dissolved organic nitrogen (DON) contributions to total nitrogen deposition using archived precipitation samples and long-term environmental datasets. The project explores how nitrogen deposition varies over time and its potential influence on watershed biogeochemistry.
+
+**Tools:** R, Data Analysis, Hindcasting, Watershed Biogeochemistry
 
 ## Project 3
+**Graduate Research | University of New Hampshire**
+
+Investigating the chemistry of atmospheric deposition and throughfall to better understand how precipitation interacts with forest canopies and influences nutrient cycling in forest ecosystems. This research explores differences in precipitation chemistry, nutrient inputs, and the role of forest canopies in watershed biogeochemical processes.
+
+**Tools:** R, Data Analysis, Precipitation Chemistry, Throughfall Monitoring, Watershed Biogeochemistry
