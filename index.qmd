@@ -1,19 +1,24 @@
 ---
-title: "About Me"
+title: "Personal Introduction"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/profile.jpeg
 ---
 
 :::{#me}
 
 ## Goals
+Currently I am an aspiring PhD student at the University of New Hampshire. My research interests include watershed biogeochemistry, nutrient cycling, nitrogen deposition, and soil biochemistry. I am particularly interested in understanding how environmental changes influence water quality and forested ecosystems.
 
 ## Education
+M.S. in Environmental and Soil Sciences, University of Tennessee, Knoxville (2025)
+B.S. in Environmental and Soil Sciences, University of Tennessee, Knoxville (2023), Summa Cum Laude
 
 ## Experience
+I previously worked as the Staff Environmental Scientist for the Town of Charlestown, Rhode Island, focusing on water quality and wastewater management.
 
+My academic career covers a wide variety of topics in environmental research, including: GIS and spatial analysis, agricultural fieldwork, laboratory instruction, TA mentorship, and statistical water quaility data analysis. I enjoy combining field observations and computational tools to better understand drivers of environmental processes.
 :::
 
 Thanks for checking out my web site!
